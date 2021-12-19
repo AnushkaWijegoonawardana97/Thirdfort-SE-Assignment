@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Thirdfort:Thirdfort123@thirdfort-noteapp.53fv2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Thirdfort:Thirdfort123@thirdfort-noteapp.53fv2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "thridfortjwt"
 }
